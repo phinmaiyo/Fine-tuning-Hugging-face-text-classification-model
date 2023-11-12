@@ -1,0 +1,6 @@
+transformers
+gradio
+torch
+numpy
+pandas
+scipy
