@@ -44,5 +44,5 @@ Once satisfied with the fine-tuned model's performance, deploy it for inference 
 ## License
 This project is licensed under the MIT License.
 
-Author
+## Author
 Phonex Chemutai
